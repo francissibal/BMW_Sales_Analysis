@@ -1,7 +1,6 @@
 # BMW_Sales_Analysis_2010_2024
 This project analyzes BMW’s global sales data from 2010 to 2024 to uncover trends in revenue, top-performing regions, and model performance. Includes data cleaning, exploratory analysis, and business-level recommendations for production, pricing, and marketing strategies.
-
-
+---
 ## 📂 Project Structure
 ```
 ├── data/
@@ -10,8 +9,13 @@ This project analyzes BMW’s global sales data from 2010 to 2024 to uncover tre
 ├── BMW_Sales_Analysis.ipynb           # Main Jupyter Notebook
 ├── README.md                          # Project documentation
 ```
----
 
+### 📓 Main Notebook  
+You can view the full analysis in the Jupyter Notebook here:  
+➡️ [BMW_Sales_Analysis.ipynb](BMW_Sales_Analysis.ipynb)
+
+
+---
 ## Executive Summary
 **Objective:** Provide actionable insights into BMW’s sales (2010–2024) for better decision-making in production, pricing, and marketing.
 
@@ -42,7 +46,7 @@ This project analyzes BMW’s global sales data from 2010 to 2024 to uncover tre
 **1. Revenue by Year (2010–2024)**  
 2022 was the **peak revenue year ($1.344T)**. Slight dip afterward due to market conditions.  
 
-![Revenue by Year](outputs/revenue_by_year.png)  
+![Revenue by Year](outputs/best_year_revenue.png)  
 
 ---
 
@@ -56,14 +60,8 @@ Asia leads global unit sales, followed by Europe & North America.
 **3. Revenue by Model**  
 7 Series dominates, followed by 5 Series and X models.  
 
-![Revenue by Model](outputs/revenue_by_model.png)  
+![Revenue by Model](outputs/top_models.png)  
 
----
-
-**4. Fuel Type Trends**  
-Dataset shows ~51% hybrid/EV mix, but external data suggests faster adoption.  
-
-![Fuel Type Trends](outputs/fuel_type_trends.png)  
 
 ---
 
