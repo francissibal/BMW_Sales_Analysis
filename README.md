@@ -12,7 +12,7 @@ This project analyzes BMW’s global sales data from 2010 to 2024 to uncover tre
 ├── README.md                          # Project documentation
 ```
 
-### 📓 Main Notebook  
+### Main Jupyter Notebook  
 You can view the full analysis in the Jupyter Notebook here:  
 ➡️ [BMW_Sales_Analysis.ipynb](https://github.com/francissibal/BMW_Sales_Analysis/blob/main/BMW%20Sales%20Analysis.ipynb)
 
@@ -31,7 +31,7 @@ You can view the full analysis in the Jupyter Notebook here:
 
 ## Exploratory Data Analysis
 
-### 📊 Sample Data Preview
+### Data Preview
 
 | Model     | Year | Region         | Fuel_Type | Transmission | Price_USD | Sales_Volume |
 |-----------|------|----------------|-----------|--------------|-----------|--------------|
