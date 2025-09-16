@@ -1,6 +1,8 @@
 # BMW_Sales_Analysis_2010_2024
+
 This project analyzes BMW’s global sales data from 2010 to 2024 to uncover trends in revenue, top-performing regions, and model performance. Includes data cleaning, exploratory analysis, and business-level recommendations for production, pricing, and marketing strategies.
----
+
+
 ## 📂 Project Structure
 ```
 ├── data/
@@ -44,7 +46,11 @@ You can view the full analysis in the Jupyter Notebook here:
 ### Key Visualizations & Insights  
 
 **1. Revenue by Year (2010–2024)**  
-2022 was the **peak revenue year ($1.344T)**. Slight dip afterward due to market conditions.  
+  * BMW’s global revenue shows steady growth with a peak in **2022 ($1.344T).**
+  
+  * Post-2022, there’s a slight dip, likely tied to **supply chain challenges** and **increasing EV competition**.
+  
+  * The trend highlights **long-term growth potential** despite short-term fluctuations.
 
 ![Revenue by Year](outputs/best_year_revenue.png)  
 
